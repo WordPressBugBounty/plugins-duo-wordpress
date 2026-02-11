@@ -7,6 +7,9 @@ Stable tag: 2.5.7
 
 Easily add Duo Security two-factor authentication to your WordPress website. Enable two-factor authentication for your admins and/or users.
 
+== End of Support Notice ==
+Support for the traditional Duo Prompt experience using the Duo Wordpress plugin ended on September 30, 2024. Please use the new [Duo Universal plugin for Wordpress](https://wordpress.org/plugins/duo-universal/). Read more about the End of Suppport and migration to the new plugin on our [Duo for WordPress - Duo Universal Prompt](https://duo.com/docs/wordpress) documentation page
+
 == Description ==
 Duo Security provides two-factor authentication as a service to protect against account takeover and data theft. Using the Duo plugin you can easily add Duo two-factor authentication to your WordPress website in just a few minutes!
 
